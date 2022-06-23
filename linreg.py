@@ -1,7 +1,7 @@
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
-
+#LINEREG BASICS
 
 x_train = np.array([1.0, 2.0])
 y_train = np.array([300.0, 500.0])
